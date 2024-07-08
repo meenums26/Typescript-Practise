@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        // "target": "ES6",
+        "target" : "ESNext",
+        "outDir": "build",
+        "noEmit": true
+
+    },
+    "include": ["src/**/*"]
+}
